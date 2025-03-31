@@ -1,4 +1,4 @@
-from dotenv import load_dotenv
+from dotenv import load_dotenv # type: ignore
 import os
 
 # Cargar las variables de entorno desde el archivo .env

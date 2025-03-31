@@ -1,4 +1,4 @@
-from pinecone import Pinecone
+from pinecone import Pinecone # type: ignore
 from typing import List, Dict, Optional, Union
 
 class PineconeClient:
@@ -74,9 +74,6 @@ class PineconeClient:
         self.index.upsert_records(namespace, records)
         print(f"{len(records)} registros insertados en '{namespace}'.")
 
-    def check_index_stats(self):
-        """Obtiene estadísticas del índice"""
-        return self.index.describe_index_stats()
 
     # ------------------------- MÉTODOS DE BÚSQUEDA -------------------------
 
