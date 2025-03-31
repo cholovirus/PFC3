@@ -1,0 +1,5 @@
+openai>=1.0.0  # API de OpenAI
+google-generativeai>=0.4.0  # API de Gemini
+langchain>=0.1.15  # Framework para LLMs
+autogen>=0.2.0  # Agentes multi-LLM
+pinecone-client>=3.0.0  # Cliente de Pinecone
