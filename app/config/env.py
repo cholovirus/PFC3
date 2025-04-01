@@ -1,10 +1,10 @@
 from dotenv import load_dotenv # type: ignore
 import os
+from pathlib import Path
 
-# Cargar las variables de entorno desde el archivo .env
-load_dotenv()
+env_path = Path(__file__).resolve().parent.parent.parent / '.env'
 
-# Ahora puedes acceder a las variables de entorno en cualquier parte del proyecto
-# Ejemplo de cómo acceder a una variable de entorno:
+load_dotenv(dotenv_path=env_path,override=True)
+
 API_KEY = os.getenv("PINECONE_API_KEY")
-
+GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
