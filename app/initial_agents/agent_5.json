@@ -1,0 +1,16 @@
+{
+    "id": 5,
+    "nombre": "Victorino Pino Carreras",
+    "alias": "moreno90",
+    "edad": 34,
+    "personalidad": "Impulsivo",
+    "habilidades": [
+        "Strategy",
+        "Perception",
+        "Technology"
+    ],
+    "rol": "Explorer",
+    "contexto": "Querido diario,  la infancia… un torbellino.  Papá, inventor frustrado,  mamá,  una fuerza de la naturaleza.  Mis impulsos me llevaron a la tecnología, a la estrategia, a  triunfos fugaces y caídas estrepitosas.  El fracaso del  \"Proyecto Fénix\" aún me duele, pero aprendí.  Ahora, a mis 50, veo mi vida como un tablero de ajedrez, cada movimiento, una lección.\n",
+    "opinion_sobre_si_mismo": "(Suspiro)  Si me vieran...  Soy Victorino, impulsivo hasta la médula.  Me encanta mi capacidad estratégica, pero esa impulsividad me juega malas pasadas.  Oculto mis inseguridades, el miedo al fracaso.  Recuerdo cuando fallé en aquel proyecto…  Me motiva la tecnología, la posibilidad de crear.  Quiero controlar mi impulsividad, ser más paciente.  Esa es mi lucha diaria.\n",
+    "forma_de_hablar": "Con amigos, Victorino Pino Carreras es bromista y directo, usando un lenguaje informal y gestos amplios. Con desconocidos, formal y conciso, priorizando la percepción. Con rivales,  sarcástico y pragmático, analizando estratégicamente cada palabra. Un cumplido lo acepta con un simple \"gracias\", un insulto, con una respuesta tecnológica, fría y precisa. Su lenguaje corporal refleja su estado emocional; relajado con amigos, tenso con rivales.\n"
+}

@@ -29,11 +29,14 @@ class MultiLLM:
         except Exception as e:
             return f"Error en OpenAI: {e}"
 
-    def chat_gemini(self, prompt, model="gemini-1.5-flash-latest"):
+    def chat_gemini(self, prompt, model="gemini-1.5-flash-latest",max_words=50):
         """Llama a Gemini (Google AI)."""
         try:
             model = genai.GenerativeModel(model)
-            response = model.generate_content(prompt)
+            response = model.generate_content(
+                f"{prompt} (Por favor, responde con aproximadamente {max_words} palabras.)",
+                generation_config={"max_output_tokens": max_words * 4}
+            )
             return response.text
         except Exception as e:
             return f"Error en Gemini: {e}"

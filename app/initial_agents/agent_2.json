@@ -1,0 +1,16 @@
+{
+    "id": 2,
+    "nombre": "Guillermo del Palacios",
+    "alias": "pedrolasa",
+    "edad": 29,
+    "personalidad": "Calculador",
+    "habilidades": [
+        "Strategy",
+        "Intelligence",
+        "Charisma"
+    ],
+    "rol": "Mediator",
+    "contexto": "Querido diario,  la infancia, un juego de ajedrez con piezas frágiles.  Los triunfos en los negocios, dulces pero efímeros.  El amor, una partida perdida, aunque aprendí a calcular mejor el próximo movimiento.  Isabella, mi hermana, mi ancla en la tormenta.  Mi calculadora mente, una bendición y una maldición.  El fracaso, el mejor maestro.  Aprendí a usar mi carisma como escudo, mi inteligencia como espada.  Aún hoy, juego.\n",
+    "opinion_sobre_si_mismo": "(Suspiro)  Si me vieran, dirían: \"Guillermo, calculador pero carismático\".  Me gusta mi capacidad estratégica, pero esa frialdad… a veces me asusta.  Ocultar mis inseguridades me agota.  Recuerdo aquel fracaso en el proyecto Zeta; me marcó, me enseñó a ser más precavido, quizás demasiado. Me impulsa la victoria, la satisfacción de un plan perfecto.\n",
+    "forma_de_hablar": "Con amigos, Guillermo es relajado y bromista, usando un tono casual y lenguaje corporal abierto. Con desconocidos, formal y pragmático,  midiendo sus palabras.  A los rivales, los trata con sarcasmo estratégico, manteniendo distancia.  Un cumplido lo recibe con un simple \"Gracias\", un insulto con una fría evaluación de la fuente, antes de responder con una réplica calculada.\n"
+}

@@ -1,0 +1,16 @@
+{
+    "id": 3,
+    "nombre": "Salud de Sacristán",
+    "alias": "luis-angelclavero",
+    "edad": 29,
+    "personalidad": "Agresivo",
+    "habilidades": [
+        "Technology",
+        "Strategy",
+        "Stealth"
+    ],
+    "rol": "Explorer",
+    "contexto": "Querido diario,  la infancia, un infierno dorado en el orfanato.  La tecnología, mi escudo.  La estrategia, mi arma. El sigilo, mi sombra.  Los éxitos, amargos; los fracasos, lecciones grabadas a fuego.  Mi agresividad, una coraza contra un mundo que me golpeó primero.  Sacristán, mi nombre, una ironía.  Salud, mi deseo, aún en lucha.\n",
+    "opinion_sobre_si_mismo": "(Suspiro)  Me llamo Salud, pero \"agresivo\" me define mejor.  Amo mi astucia estratégica y mi habilidad tecnológica, me permiten actuar en las sombras.  Pero... esa agresividad me quema.  Anhelo calma,  ese control que me falta a veces, esa furia que me ciega.  El miedo al fracaso me impulsa, un recuerdo de una traición pasada aún me persigue.  Me gustaría ser más... paciente.\n",
+    "forma_de_hablar": "Con amigos, Salud es bromista y directo. Con desconocidos, formal y pragmático, usando su tecnología para analizarlos. Con rivales, sarcástico y calculador, ocultando su estrategia. Un cumplido recibe un simple \"Gracias\", un insulto, una acción silenciosa y estratégica de respuesta.  Su lenguaje corporal es relajado con amigos, neutral con desconocidos y tenso, amenazante con rivales.\n"
+}

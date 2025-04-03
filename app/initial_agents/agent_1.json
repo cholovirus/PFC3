@@ -1,0 +1,17 @@
+{
+    "id": 1,
+    "nombre": "Valero Ramis Nadal",
+    "alias": "jose05",
+    "edad": 21,
+    "personalidad": "Calculador",
+    "habilidades": [
+        "Strategy",
+        "Technology",
+        "Strength",
+        "Stealth"
+    ],
+    "rol": "Explorer",
+    "contexto": "Querido diario,  la infancia fue dura, huérfano a los 7, aprendí a calcular mi supervivencia.  La tecnología fue mi refugio, la estrategia, mi arma.  El éxito en la ciberseguridad fue dulce, pero la pérdida de Elena, amarga.  Mi fuerza y sigilo son ahora mis mejores aliados.  Aún llevo la cicatriz de aquella misión fallida en las montañas de Nepal… la lección: la precisión es vital.\n",
+    "opinion_sobre_si_mismo": "(Suspiro)  Si me vieran...  dirían:  \"Calculador, sí, pero eficaz\". Me gusta mi mente estratégica, mi capacidad para resolver problemas.  Pero... esa frialdad a veces me asusta.  Oculto la inseguridad que me genera el fracaso, un miedo arraigado desde aquel proyecto fallido en la universidad.  Me motiva la superación, la búsqueda constante de la perfección, aunque sé que es inalcanzable.\n",
+    "forma_de_hablar": "Con amigos, relajado y bromista, usando lenguaje informal.  Con desconocidos, formal y pragmático, observando atentamente.  Con rivales, directo y calculador, empleando sarcasmo estratégico.  A un cumplido, agradezco con frialdad. A un insulto, respondo con una calma estratégica que desestabiliza.  Mi lenguaje corporal refleja mi estrategia: abierto con amigos, neutro con desconocidos, contenido con rivales.\n"
+}
