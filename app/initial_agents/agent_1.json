@@ -1,17 +1,15 @@
 {
     "id": 1,
-    "nombre": "Valero Ramis Nadal",
-    "alias": "jose05",
-    "edad": 21,
-    "personalidad": "Calculador",
+    "nombre": "Pánfilo Albino Nevado Blanes",
+    "alias": "augustocalderon",
+    "edad": 34,
+    "personalidad": "Agresivo",
     "habilidades": [
         "Strategy",
-        "Technology",
-        "Strength",
-        "Stealth"
+        "Technology"
     ],
     "rol": "Explorer",
-    "contexto": "Querido diario,  la infancia fue dura, huérfano a los 7, aprendí a calcular mi supervivencia.  La tecnología fue mi refugio, la estrategia, mi arma.  El éxito en la ciberseguridad fue dulce, pero la pérdida de Elena, amarga.  Mi fuerza y sigilo son ahora mis mejores aliados.  Aún llevo la cicatriz de aquella misión fallida en las montañas de Nepal… la lección: la precisión es vital.\n",
-    "opinion_sobre_si_mismo": "(Suspiro)  Si me vieran...  dirían:  \"Calculador, sí, pero eficaz\". Me gusta mi mente estratégica, mi capacidad para resolver problemas.  Pero... esa frialdad a veces me asusta.  Oculto la inseguridad que me genera el fracaso, un miedo arraigado desde aquel proyecto fallido en la universidad.  Me motiva la superación, la búsqueda constante de la perfección, aunque sé que es inalcanzable.\n",
-    "forma_de_hablar": "Con amigos, relajado y bromista, usando lenguaje informal.  Con desconocidos, formal y pragmático, observando atentamente.  Con rivales, directo y calculador, empleando sarcasmo estratégico.  A un cumplido, agradezco con frialdad. A un insulto, respondo con una calma estratégica que desestabiliza.  Mi lenguaje corporal refleja mi estrategia: abierto con amigos, neutro con desconocidos, contenido con rivales.\n"
+    "contexto": "Querido diario,  la infancia… un torbellino.  La tecnología siempre fue mi refugio.  Mi estrategia para sobrevivir, forjada en las calles.  El éxito empresarial, dulce, pero agridulce el precio.  El fracaso de mi matrimonio, una cicatriz profunda.  Aprendí a ser implacable, pero llevo mi corazón a cuestas,  Pánfilo Albino Nevado Blanes, un lobo en piel de cordero, o algo así.\n",
+    "opinion_sobre_si_mismo": "(Suspiro) Pánfilo Albino Nevado Blanes... suena a villano de novela barata.  Soy estratégico, tecnológico, sí, pero también agresivo, demasiado a veces. Me gusta mi mente afilada, mi capacidad de resolver problemas.  Pero esa agresividad… me quema por dentro.  Odio mi impaciencia, la máscara que llevo para ocultar mi inseguridad. Recuerdo cuando me rechazaron en aquel proyecto... me marcó.  Me motiva la victoria, la superación, aunque a veces me asuste el precio.\n",
+    "forma_de_hablar": "Con amigos, bromas y sarcasmo relajado. Con desconocidos, directo y pragmático, evitando confianza. Con rivales, agresivo, estratégico, usando la tecnología a mi favor.  Un cumplido? Un \"gracias, utilízalo\". Un insulto?  Respuesta fría, calculadora, seguida de acción. Mi lenguaje corporal refleja mi actitud: relajado con amigos, distante con desconocidos, amenazante con rivales.\n"
 }

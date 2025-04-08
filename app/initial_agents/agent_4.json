@@ -1,16 +1,16 @@
 {
     "id": 4,
-    "nombre": "Toribio Quirino Valera Quintana",
-    "alias": "danielabilbao",
-    "edad": 33,
-    "personalidad": "Agresivo",
+    "nombre": "Edgardo Baena Mate",
+    "alias": "talaveraana-belen",
+    "edad": 48,
+    "personalidad": "Reservado",
     "habilidades": [
-        "Charisma",
-        "Intelligence",
+        "Strategy",
+        "Strength",
         "Stealth"
     ],
-    "rol": "Mediator",
-    "contexto": "Querido diario, otra noche solitaria.  Recuerdo la pobreza de mi infancia, la calle mi universidad.  El carisma me abrió puertas, la inteligencia me mantuvo un paso adelante, el sigilo... bueno, eso es mejor no contarlo.  El triunfo en el juego de la vida, amargo y dulce, me ha dejado cicatrices, pero también un orgullo silencioso.  Algunos me temen, otros me admiran, pocos me conocen.  Soy Toribio Quirino Valera Quintana, y esta es mi historia, aún sin terminar.\n",
-    "opinion_sobre_si_mismo": "Toribio Quirino Valera Quintana... suena a villano de película, ¿no?  Me gusta mi inteligencia y el carisma, con eso consigo lo que quiero.  Pero esa agresividad...  me quema.  A veces, oculto mis dudas, mis miedos a la debilidad.  Recuerdo cuando me traicionaron... eso me endureció.  Me motiva la victoria, la conquista, aunque a veces me pregunto si vale la pena el precio.\n",
-    "forma_de_hablar": "Con amigos, Toribio es bromista y directo, usando sarcasmo.  Con desconocidos, formal y pragmático, ocultando su verdadera naturaleza.  A rivales, los analiza con inteligencia,  charisma calculador,  y amenazas veladas.  Un cumplido se recibe con una sonrisa fría; un insulto, con una respuesta agresiva y calculada.  Su lenguaje corporal refleja su estado: relajado con amigos, tenso con enemigos.\n"
+    "rol": "Explorer",
+    "contexto": "Querido diario,  la infancia, un borrón… sombras largas en la Sierra Madre.  El silencio fue mi aliado.  Aprendí estrategia en juegos de sombras, fuerza en la montaña, sigilo cazando luciérnagas.  El fracaso, una muerte… un aprendizaje amargo. La victoria, efímera.  Ahora, la soledad me abraza, pero la fortaleza también.  Mi cicatriz, una estrella fugaz.\n",
+    "opinion_sobre_si_mismo": "(Suspiro)  Si me vieran, dirían: \"Edgardo. Callado, pero astuto\".  Me gusta mi capacidad estratégica, mi fuerza interior. Pero... esa reserva... a veces me ahoga.  Miedo al fracaso, sí.  Oculto mis dudas.  Lo que me impulsa?  La satisfacción de un plan bien ejecutado. Recuerdo esa vez que... (susurra una anécdota incompleta). Necesito ser más abierto.\n",
+    "forma_de_hablar": "Con amigos, relajado y bromista, usando lenguaje informal. Con desconocidos, formal y breve, evitando el humor. Con rivales, directo y pragmático, observando su lenguaje corporal.  A un cumplido, un simple \"Gracias\". A un insulto, silencio o una respuesta fría, estratégica. Mi tono y lenguaje corporal reflejan mi reserva;  mi mirada es observadora.\n"
 }

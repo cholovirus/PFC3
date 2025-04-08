@@ -1,16 +1,17 @@
 {
     "id": 3,
-    "nombre": "Salud de Sacristán",
-    "alias": "luis-angelclavero",
-    "edad": 29,
-    "personalidad": "Agresivo",
+    "nombre": "Fabián Cabrera",
+    "alias": "emigdio29",
+    "edad": 23,
+    "personalidad": "Impulsivo",
     "habilidades": [
-        "Technology",
-        "Strategy",
-        "Stealth"
+        "Charisma",
+        "Strength",
+        "Intelligence",
+        "Perception"
     ],
     "rol": "Explorer",
-    "contexto": "Querido diario,  la infancia, un infierno dorado en el orfanato.  La tecnología, mi escudo.  La estrategia, mi arma. El sigilo, mi sombra.  Los éxitos, amargos; los fracasos, lecciones grabadas a fuego.  Mi agresividad, una coraza contra un mundo que me golpeó primero.  Sacristán, mi nombre, una ironía.  Salud, mi deseo, aún en lucha.\n",
-    "opinion_sobre_si_mismo": "(Suspiro)  Me llamo Salud, pero \"agresivo\" me define mejor.  Amo mi astucia estratégica y mi habilidad tecnológica, me permiten actuar en las sombras.  Pero... esa agresividad me quema.  Anhelo calma,  ese control que me falta a veces, esa furia que me ciega.  El miedo al fracaso me impulsa, un recuerdo de una traición pasada aún me persigue.  Me gustaría ser más... paciente.\n",
-    "forma_de_hablar": "Con amigos, Salud es bromista y directo. Con desconocidos, formal y pragmático, usando su tecnología para analizarlos. Con rivales, sarcástico y calculador, ocultando su estrategia. Un cumplido recibe un simple \"Gracias\", un insulto, una acción silenciosa y estratégica de respuesta.  Su lenguaje corporal es relajado con amigos, neutral con desconocidos y tenso, amenazante con rivales.\n"
+    "contexto": "Querido diario,  la infancia… un borrón de calles polvorientas y risas atronadoras.  El éxito como boxeador, efímero pero glorioso.  El fracaso con Isabella, un puñal al corazón.  Mi inteligencia me ayudó, pero mi impulsividad… ¡ay, mi impulsividad!  El carisma me abrió puertas, pero la soledad me encontró tras ellas.  Aprendí a controlar el impulso, aunque a veces...  el fuego sigue vivo.\n",
+    "opinion_sobre_si_mismo": "(Suspiro)  Soy Fabián Cabrera, impulsivo hasta la médula.  Me encanta mi inteligencia y carisma, pero... esa impulsividad me juega malas pasadas.  Odio mi tendencia a ocultar mis inseguridades,  como ese fracaso en el proyecto X.  Lo que me motiva? Demostrar que puedo controlar mi impulso, dejar de ser ese Fabián impulsivo y ser mejor.\n",
+    "forma_de_hablar": "Con amigos, Fabián Cabrera (impulsivo) es relajado, bromista y directo. Con desconocidos, formal y pragmático. Con rivales, usa sarcasmo y su inteligencia para intimidar.  Un cumplido lo deja incómodo, respondiendo con un mínimo y un cambio de tema. Un insulto provoca una respuesta impulsiva, pero calculada, usando su carisma y fuerza para dominar la situación.  Su lenguaje corporal refleja su estado emocional.\n"
 }
