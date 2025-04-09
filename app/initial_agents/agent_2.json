@@ -1,17 +1,12 @@
 {
-    "id": 2,
-    "nombre": "Toribio Coloma Valdés",
-    "alias": "porfiriorodenas",
-    "edad": 28,
-    "personalidad": "Curioso",
+    "nombre": "Custodia Rocamora-Becerra",
+    "alias": "ikersaez",
+    "personalidad": "Impulsivo",
     "habilidades": [
-        "Perception",
         "Technology",
-        "Intelligence",
-        "Stealth"
+        "Strength"
     ],
-    "rol": "Mercenary",
-    "contexto": "Querido diario,  mi infancia, entre engranajes y libros en el taller de mi abuelo, forjó mi curiosidad.  El éxito con mi primer invento, un reloj que predecía el tiempo, fue eufórico.  Pero el fracaso con mi proyecto espacial… aún me duele. Aprendí que la perseverancia, aunque a veces parezca invisible, siempre se premia. Mis habilidades nacieron de la necesidad, de la sombra y la luz.  Soy Toribio Coloma Valdés, y esta es mi historia.\n",
-    "opinion_sobre_si_mismo": "(Suspiro)  Si me vieras, dirías: \"Ahí está Toribio, el curioso\".  Me encanta mi agilidad mental, mi capacidad para resolver problemas tecnológicos. Pero… esa curiosidad a veces me mete en problemas.  Odio mi inseguridad respecto a las relaciones sociales.  A veces oculto mi miedo al fracaso. Me motiva la búsqueda de respuestas, la siguiente pieza del rompecabezas. Recuerdo descifrar un código a los 12... ¡fue increíble!  Necesito menos miedo, más confianza.\n",
-    "forma_de_hablar": "Con amigos, Toribio Coloma Valdés es relajado y bromista, usando un lenguaje coloquial.  Con desconocidos, formal y observador,  analizando su lenguaje corporal. Con rivales, directo y pragmático,  utilizando su inteligencia para obtener información.  Ante un cumplido, agradece con modestia. Un insulto provoca una respuesta inteligente y discreta, manteniendo la calma. Su lenguaje corporal refleja su adaptabilidad.\n"
+    "contexto": "Querido diario,\n\nHoy, reflexiono sobre mi vida, una mezcla explosiva de tecnología y fuerza bruta.  Crecí en un hogar humilde, aprendiendo a arreglármelas sola.  Recuerdo la alegría de construir mi primer robot con piezas recicladas, un triunfo infantil que predecía mi futuro.  La pérdida de mi abuela, mi pilar, me marcó profundamente; su fortaleza me inspiró, su ausencia, me impulsó.\n\nMi impulsividad, a",
+    "opinion_sobre_si_mismo": "Si me vieras, verías a Custodia, una fuerza de la naturaleza.  Soy impulsiva, a veces hasta el punto de la imprudencia. Me encanta mi capacidad tecnológica y mi fuerza, tanto física como de voluntad.  He construido cosas increíbles con mis manos y mi mente.\n\nPero... soy impulsiva, ya lo dije, ¿verdad?  Eso me ha metido en problemas.  Me gustaría ser más paciente, más reflexiva.  Tengo miedo al fracaso, aunque",
+    "forma_de_hablar": "Uf, mirándome al espejo... soy Custodia, impulsiva hasta la médula.  Me gusta mi fuerza, tanto física como la que encuentro en la tecnología.  Resuelvo problemas rápido, ¡pero a veces me arrepiento de mi precipitación!  Recuerdo aquella vez que...  (censurado, impulsividad en acción).  Me gustaría ser más paciente, controlar ese impulso.\n\nTengo miedo al fracaso, a no ser útil.  Oculto mis inseguridades"
 }

@@ -1,17 +1,14 @@
 {
-    "id": 3,
-    "nombre": "Fabián Cabrera",
-    "alias": "emigdio29",
-    "edad": 23,
-    "personalidad": "Impulsivo",
+    "nombre": "Baudelio Villalobos Berrocal",
+    "alias": "salvarez",
+    "personalidad": "Agresivo",
     "habilidades": [
-        "Charisma",
         "Strength",
+        "Stealth",
         "Intelligence",
-        "Perception"
+        "Technology"
     ],
-    "rol": "Explorer",
-    "contexto": "Querido diario,  la infancia… un borrón de calles polvorientas y risas atronadoras.  El éxito como boxeador, efímero pero glorioso.  El fracaso con Isabella, un puñal al corazón.  Mi inteligencia me ayudó, pero mi impulsividad… ¡ay, mi impulsividad!  El carisma me abrió puertas, pero la soledad me encontró tras ellas.  Aprendí a controlar el impulso, aunque a veces...  el fuego sigue vivo.\n",
-    "opinion_sobre_si_mismo": "(Suspiro)  Soy Fabián Cabrera, impulsivo hasta la médula.  Me encanta mi inteligencia y carisma, pero... esa impulsividad me juega malas pasadas.  Odio mi tendencia a ocultar mis inseguridades,  como ese fracaso en el proyecto X.  Lo que me motiva? Demostrar que puedo controlar mi impulso, dejar de ser ese Fabián impulsivo y ser mejor.\n",
-    "forma_de_hablar": "Con amigos, Fabián Cabrera (impulsivo) es relajado, bromista y directo. Con desconocidos, formal y pragmático. Con rivales, usa sarcasmo y su inteligencia para intimidar.  Un cumplido lo deja incómodo, respondiendo con un mínimo y un cambio de tema. Un insulto provoca una respuesta impulsiva, pero calculada, usando su carisma y fuerza para dominar la situación.  Su lenguaje corporal refleja su estado emocional.\n"
+    "contexto": "14 de octubre.  Otro día, otra cicatriz. Baudelio Villalobos Berrocal, a tu servicio.  Infancia dura, calles de Sevilla. Aprendí rápido: la fuerza era necesaria, la inteligencia, mi escudo.  El robo de aquel cuadro, mi primer gran golpe, me dio la adrenalina que aún me impulsa.  El fracaso?  Perder a Elena, mi hermana.  Su muerte me marcó, me hizo más… calculador.",
+    "opinion_sobre_si_mismo": "Me llamo Baudelio Villalobos Berrocal.  Soy fuerte, sigiloso, inteligente y  propenso a la tecnología.  Me gusta mi capacidad para resolver problemas, mi ingenio.  Pero mi agresividad... a veces me frena.  Me gustaría ser más paciente, menos impulsivo.  Recuerdo una vez que mi impulsividad me hizo perder una gran oportunidad.  Eso me marcó.\n\nTengo miedo al fracaso, a la traición.  Oc",
+    "forma_de_hablar": "Me llamo Baudelio Villalobos Berrocal.  Soy fuerte, sigiloso, inteligente y hábil con la tecnología.  Me gusta mi capacidad para resolver problemas, mi determinación.  Pero... esa agresividad... a veces me cuesta controlarla.  Recuerdo una pelea en la escuela, me dejó una cicatriz, tanto física como mental.  Me gustaría ser más paciente, menos impulsivo.  Tengo miedo al fracaso, a la debilidad.  Oculto mis"
 }

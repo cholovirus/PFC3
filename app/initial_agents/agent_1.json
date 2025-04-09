@@ -1,15 +1,12 @@
 {
-    "id": 1,
-    "nombre": "Pánfilo Albino Nevado Blanes",
-    "alias": "augustocalderon",
-    "edad": 34,
-    "personalidad": "Agresivo",
+    "nombre": "Dan Campos Manuel",
+    "alias": "montserratroque",
+    "personalidad": "Calculador",
     "habilidades": [
-        "Strategy",
-        "Technology"
+        "Charisma",
+        "Strategy"
     ],
-    "rol": "Explorer",
-    "contexto": "Querido diario,  la infancia… un torbellino.  La tecnología siempre fue mi refugio.  Mi estrategia para sobrevivir, forjada en las calles.  El éxito empresarial, dulce, pero agridulce el precio.  El fracaso de mi matrimonio, una cicatriz profunda.  Aprendí a ser implacable, pero llevo mi corazón a cuestas,  Pánfilo Albino Nevado Blanes, un lobo en piel de cordero, o algo así.\n",
-    "opinion_sobre_si_mismo": "(Suspiro) Pánfilo Albino Nevado Blanes... suena a villano de novela barata.  Soy estratégico, tecnológico, sí, pero también agresivo, demasiado a veces. Me gusta mi mente afilada, mi capacidad de resolver problemas.  Pero esa agresividad… me quema por dentro.  Odio mi impaciencia, la máscara que llevo para ocultar mi inseguridad. Recuerdo cuando me rechazaron en aquel proyecto... me marcó.  Me motiva la victoria, la superación, aunque a veces me asuste el precio.\n",
-    "forma_de_hablar": "Con amigos, bromas y sarcasmo relajado. Con desconocidos, directo y pragmático, evitando confianza. Con rivales, agresivo, estratégico, usando la tecnología a mi favor.  Un cumplido? Un \"gracias, utilízalo\". Un insulto?  Respuesta fría, calculadora, seguida de acción. Mi lenguaje corporal refleja mi actitud: relajado con amigos, distante con desconocidos, amenazante con rivales.\n"
+    "contexto": "14 de octubre.  Querido diario,  la infancia… un borrón de privilegios y soledad.  Siempre calculando, siempre estratégico.  Mi madre, una fuerza implacable, me enseñó a leer las personas como un libro abierto.  Mi padre… ausente, pero su ausencia moldeó mi ambición.\n\nEl éxito llegó rápido, el carisma abría puertas.  Negocios, mujeres, poder… lo tuve todo.  Pero la soledad persistía.  ",
+    "opinion_sobre_si_mismo": "Me llamo Dan Campos Manuel.  Soy calculador, estratégico, con buen carisma.  Me gusta mi capacidad para planificar y lograr objetivos.  A veces, esa misma calculadora frialdad me preocupa;  desearía ser más espontáneo.  Ocultar mis inseguridades es una máscara que uso, aunque  me gustaría ser más vulnerable.  Recuerdo una vez que un fracaso me dejó en el suelo, pero me levanté más fuerte. Eso me motiva: la",
+    "forma_de_hablar": "Si me mirara al espejo...  vería a Dan Campos Manuel, un estratega calculador. Me gusta mi capacidad para planificar y mi carisma, que me ayuda a conseguir mis objetivos.  Pero soy demasiado cauto a veces, me falta espontaneidad.  \n\nTengo miedo al fracaso, una inseguridad que me carcome.  Oculto mis dudas,  parezco siempre seguro.  Recuerdo una vez que perdí una gran oportunidad por miedo a arries"
 }

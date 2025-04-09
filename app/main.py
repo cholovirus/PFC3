@@ -3,6 +3,7 @@ from conexion.db_vector import *
 from config.env import API_KEY , GEMINI_API_KEY
 from conexion.llm import *
 from services.agenteGen import *
+from langchain_core.messages import HumanMessage, SystemMessage
 # Insertar usando tu clase
 
 records = [
@@ -27,10 +28,20 @@ records = [
 ]
 
 LLM = MultiLLM(gemini_key=GEMINI_API_KEY,lmstudio_url="http://localhost:1234/v1")
-roles = ["Explorer", "Guardian", "Mediator", "Investigator", "Mercenary"]
+
+llm = LLM.get_model(provider="gemini",max_tokens_=100)
+
 habilidades = ["Strategy", "Stealth", "Strength", "Charisma", "Intelligence", "Perception", "Technology"]
 personalidades = ["Amigable", "Agresivo", "Calculador", "Impulsivo", "Curioso", "Reservado"]
-generar_agentes(5, roles, habilidades,personalidades,LLM)
+generar_agentes(5, habilidades,personalidades,llm)
+messages = [
+    SystemMessage(content="Eres un asistente útil."),
+    HumanMessage(content="¿Cómo estás?")
+]
+response = llm.invoke(messages)
+print("Gemini:", response.content)
+
+
 '''
 LLM = MultiLLM(gemini_key=GEMINI_API_KEY,lmstudio_url="http://localhost:1234/v1")
 promt = "hola como estas"

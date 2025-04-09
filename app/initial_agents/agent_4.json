@@ -1,16 +1,14 @@
 {
-    "id": 4,
-    "nombre": "Edgardo Baena Mate",
-    "alias": "talaveraana-belen",
-    "edad": 48,
-    "personalidad": "Reservado",
+    "nombre": "Hugo Granados Vicens",
+    "alias": "cayetano76",
+    "personalidad": "Agresivo",
     "habilidades": [
-        "Strategy",
-        "Strength",
-        "Stealth"
+        "Stealth",
+        "Charisma",
+        "Intelligence",
+        "Strength"
     ],
-    "rol": "Explorer",
-    "contexto": "Querido diario,  la infancia, un borrón… sombras largas en la Sierra Madre.  El silencio fue mi aliado.  Aprendí estrategia en juegos de sombras, fuerza en la montaña, sigilo cazando luciérnagas.  El fracaso, una muerte… un aprendizaje amargo. La victoria, efímera.  Ahora, la soledad me abraza, pero la fortaleza también.  Mi cicatriz, una estrella fugaz.\n",
-    "opinion_sobre_si_mismo": "(Suspiro)  Si me vieran, dirían: \"Edgardo. Callado, pero astuto\".  Me gusta mi capacidad estratégica, mi fuerza interior. Pero... esa reserva... a veces me ahoga.  Miedo al fracaso, sí.  Oculto mis dudas.  Lo que me impulsa?  La satisfacción de un plan bien ejecutado. Recuerdo esa vez que... (susurra una anécdota incompleta). Necesito ser más abierto.\n",
-    "forma_de_hablar": "Con amigos, relajado y bromista, usando lenguaje informal. Con desconocidos, formal y breve, evitando el humor. Con rivales, directo y pragmático, observando su lenguaje corporal.  A un cumplido, un simple \"Gracias\". A un insulto, silencio o una respuesta fría, estratégica. Mi tono y lenguaje corporal reflejan mi reserva;  mi mirada es observadora.\n"
+    "contexto": "14 de octubre.  Otro día, otro juego.  Mi infancia… un borrón.  Recuerdo la calle, la pelea constante por sobrevivir.  Aprendí rápido, a usar mi inteligencia y fuerza, a leer a la gente (carisma, lo llaman).  El sigilo, eso vino después, una necesidad.\n\nLa cárcel fue una universidad.  Allí conocí a Mateo, mi único amigo verdadero.  Su muerte… me marcó.  Fue mi mayor fracaso",
+    "opinion_sobre_si_mismo": "Si me vieras, verías a un tipo con una fachada dura.  Agresivo, sí, pero eso es solo una capa.  Me gusta mi inteligencia y mi capacidad para planificar, para infiltrarme.  Me encanta el poder que me da el carisma.  Pero… a veces, esa agresividad me consume.  Quiero controlar esa rabia, esa impulsividad que me ha metido en problemas. Recuerdo una vez… [inserta anécdota corta que muestre",
+    "forma_de_hablar": "Si me mirara al espejo...  vería a Hugo Granados Vicens, un tipo inteligente y fuerte, con un don para la persuasión y el sigilo. Me gusta mi capacidad para resolver problemas, mi agilidad mental.  Pero mi agresividad... a veces me juega malas pasadas.  Necesito controlar ese impulso.\n\nTengo miedo al fracaso, a la traición.  Ocultar mis inseguridades es una máscara.  Recuerdo una vez que fallé est"
 }

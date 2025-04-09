@@ -1,16 +1,12 @@
 {
-    "id": 5,
-    "nombre": "Eleuterio Jose Angel Company Codina",
-    "alias": "fortunato51",
-    "edad": 49,
-    "personalidad": "Curioso",
+    "nombre": "Andrés Felipe España Cuervo",
+    "alias": "rupertomendez",
+    "personalidad": "Agresivo",
     "habilidades": [
-        "Stealth",
-        "Strategy",
-        "Perception"
+        "Perception",
+        "Intelligence"
     ],
-    "rol": "Mercenary",
-    "contexto": "Querido diario,  la infancia en Barcelona…  un torbellino.  Mis habilidades, Stealth y estrategia, nacieron jugando a las escondidas entre las Ramblas.  El fracaso más grande? Perder a mi abuela Emilia, su percepción de la vida me marcó.  Hoy,  a pesar de las cicatrices,  la curiosidad me guía.  Codina,  un nombre que evoca silencios y misterios, como mi vida misma.\n",
-    "opinion_sobre_si_mismo": "(Suspiro)  Si me vieras, diría: \"Soy Eleuterio, un tipo curioso.  Me encanta desentrañar misterios, aunque a veces mi sigilo falla.  Desearía ser más directo.  Miedo al fracaso, lo oculto bien.  Recuerdo esa vez que… (un fracaso pasado).  Pero mi curiosidad y la estrategia me impulsan.  Quiero comprenderlo todo.\"\n",
-    "forma_de_hablar": "Con amigos, soy relajado y bromista, usando lenguaje informal.  Con desconocidos,  formal y observador, manteniendo distancia física.  Con rivales, directo y pragmático, analizando sus palabras. Un cumplido recibe una respuesta modesta; un insulto, una evaluación estratégica silenciosa, observando su debilidad. Mi tono y lenguaje corporal reflejan mi adaptación a cada situación.\n"
+    "contexto": "14 de Octubre.  Otro día, otra batalla.  Mi infancia en Medellín fue… intensa.  Recuerdo la pobreza, pero también la férrea voluntad de mi madre.  Su lucha me forjó.  La inteligencia me ayudó a salir adelante, aunque mi agresividad a veces me jugó malas pasadas.  El éxito en los negocios llegó, pero a costa de amistades y de mi propia paz.  He perdido mucho, ganado más, pero la soledad es un precio alto",
+    "opinion_sobre_si_mismo": "Si me mirara al espejo... diría: \"Soy Andrés Felipe, directo y observador.  Mi inteligencia me ayuda, pero mi agresividad a veces me perjudica.  Me gusta mi capacidad analítica, mi perspicacia.  Pero necesito controlar mi impulsividad;  recuerdo esa vez que... (inserta una anécdota breve que ilustra su agresividad).  Tengo miedo al fracaso, a decepcionar a los que quiero.  Ocultar mis inseguridades me",
+    "forma_de_hablar": "Si me vieras, verías a Andrés Felipe, un tipo agudo e inteligente.  Me gusta mi capacidad de análisis, mi perspicacia.  Soy directo, a veces demasiado, lo sé.  Esa agresividad... es una espada de doble filo.  Me impulsa, pero también me ha costado amistades.  \n\nTengo miedo al fracaso, a no alcanzar mi potencial.  Oculto mi vulnerabilidad, mi inseguridad ante la crítica.  Recuerdo una vez"
 }
